@@ -1,0 +1,27 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\msi\source\repos\RustScript\RustScript\Recoil.h(52,25): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(20,1): warning C4005: '_WIN32_WINNT': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : önceki '_WIN32_WINNT' tanımına bakın
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(31,24): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(125,42): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(127,43): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(129,43): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(131,41): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(133,48): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(135,46): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(137,42): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(139,44): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(141,44): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\msi\source\repos\RustScript\RustScript\main.cpp(429,115): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 1801 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  RustScript.vcxproj -> C:\Users\msi\source\repos\RustScript\x64\Release\RustScript.exe
