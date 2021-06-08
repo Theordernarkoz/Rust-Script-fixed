@@ -82,7 +82,7 @@ namespace WeaponData {
 		const int Delay = 129;
 	}THOMPSON;
 	struct {
-		const int Delay = 1;
+		const int Delay = 155;
 	}SEMI;
 	struct {
 		const int Delay = 103;
